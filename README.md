@@ -14,6 +14,3 @@ Sao chép kho lưu trữ và mở sổ ghi chép trong Jupyter Notebook.
 
 ## Sử dụng
 Chạy các ô mã trong Jupyter Notebook để đào tạo và đánh giá mô hình phát hiện gian lận.
-
-## Giấy phép
-[MIT](LICENSE)
