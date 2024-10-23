@@ -9,6 +9,9 @@ Dự án này nhằm mục đích phát hiện các giao dịch gian lận bằn
 - Python
 - Jupyter Notebook
 
+## Dataset: 
+Link bộ dữ liệu: https://www.kaggle.com/datasets/ealaxi/paysim1
+
 ## Cài đặt
 Sao chép kho lưu trữ và mở sổ ghi chép trong Jupyter Notebook.
 
